@@ -9,7 +9,7 @@ Lorem ipsum dolor amet banjo kombucha flannel actually. Semiotics skateboard yuc
   tattooed celiac kogi hammock tbh humblebrag fixie pickled hella cliche austin.
    Irony chia lo-fi pour-over kitsch, readymade poke.
 
-![](/static/assets/screen shot 2018-02-21 at 12.01.17 pm.png)
+![](/assets/screen.png)
 
    <!-- end -->
 
