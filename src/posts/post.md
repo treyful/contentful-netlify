@@ -1,6 +1,7 @@
 ---
-title: "Level Up Pro Gatsby to the new blog"
-date: "2018-02-21"
+title: Level Up Pro Gatsby to the new blog
+date: '2018-02-21'
+image: /static/assets/photo.jpg
 ---
 
 Lorem ipsum dolor amet banjo kombucha flannel actually. Semiotics skateboard yuccie retro.
