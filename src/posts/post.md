@@ -1,7 +1,7 @@
 ---
 title: Level Up Pro Gatsby to the new blog
 date: '2018-02-21'
-image: /static/assets/photo2.jpg
+image: /assets/shot.png
 ---
 Lorem ipsum dolor amet banjo kombucha flannel actually. Semiotics skateboard yuccie retro.
  Vice ennui palo santo banjo taiyaki wayfarers. Mustache williamsburg YOLO four dollar 
@@ -9,7 +9,7 @@ Lorem ipsum dolor amet banjo kombucha flannel actually. Semiotics skateboard yuc
   tattooed celiac kogi hammock tbh humblebrag fixie pickled hella cliche austin.
    Irony chia lo-fi pour-over kitsch, readymade poke.
 
-![](/assets/screen.png)
+![Example](/assets/screen.png)
 
    <!-- end -->
 
